@@ -1,0 +1,24 @@
+20346000 Aubree Green; CIS 22A 22B 40 41A 18A 64B; Monday Wednesday; 9:00 11:30
+20347000 Jane Chu; EWRT 1A; Tuesday Thursday; 15:30 17:00
+20002000 Monica Jung; CIS 35A 36A 36B 40 41A; Friday; 14:00 16:00
+20002231 Hillary Clinton; EWRT 1A 1B; Monday Tuesday; 9:00 12:00
+20492012 Anna Kim; CIS 18A 18B 18C 22A 22B 22C; Monday Tuesday; 9:00 11:00
+22242001 Marie Curie; CIS 22A 22B 40 41A 18A 64B; Monday Friday; 16:00 18:30
+32930129 Lise Meitner; CIS 35A 36A 36B 18A 18B; Monday Tuesday; 14:00 16:30
+39281738 Dorothy Hodgkin; CIS 22A 22B 40 41A 18A 64B; Monday Friday; 13:00 15:00
+29381923 Chien-Shiung Wu; CIS 22A 22B 22C 41A 41B 64B; Monday Wednesday; 13:00 14:00
+29181048 Grace Hopper; CIS 22A 22B 40 41A 41B 18A 64B; Monday Tuesday; 11:00 14:00
+27371832 Serena Williams; CIS 18A 18B 18C 40 41A 41B; Monday Wednesday Friday; 10:00 12:30
+24928190 Richard Anderson; CIS 22A 22B 40 41A 18A 64B; Monday Wednesday; 17:00 19:30
+28910283 Kathleen Bawn; EWRT 1A 1B; Monday Thursday; 15:30 17:00
+29388920 Michael Chwe; CIS 35A 36A 36B 40 41A; Wednesday Friday; 14:00 16:00
+23456718 Karen Orren; EWRT 1A 1B; Monday Tuesday Friday; 9:00 12:00
+20983728 Anthony Pagden; CIS 18A 18B 18C 22A 22B; Monday Tuesday; 10:00 12:00
+25539201 Thomas Schwartz; CIS 35A 35B 40 41A 18A 64A; Monday Friday; 11:00 14:30
+39837291 Daniel Treisman; CIS 35A 36A 36B 18A 18B; Monday Friday; 11:00 13:30
+38937182 David Wilkinson; CIS 22A 22B 41A 41B 18A 18B; Thursday Friday; 12:00 15:00
+21192839 Sid Raval; CIS 22A 22B 22C 41A 41B 64B; Monday Wednesday; 11:00 13:00
+20938299 Anna Green; CIS 22A 22B 40 41A 41B 18A 64B; Monday Tuesday; 16:00 18:00
+24982221 Elizabeth Gary; CIS 18A 18B 18C 40 41A 41B; Monday Wednesday Friday; 10:00 12:30
+20346861 Marie Curie; CHEM 1A 12A; Wednesday Thursday; 11:00 14:00
+30000000 Grace Hopper; ACCT 1A 1B 1C; Monday Friday; 13:00 15:00
